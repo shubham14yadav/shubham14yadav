@@ -30,7 +30,7 @@ Machine Learning Projects:
 [Carmax Competition](https://github.com/shubham14yadav/Carmax_competition)
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)
 
-Web Development using ReactJS/HTML/CSS:
-[Weather App](https://github.com/shubham14yadav/my_weather_app):
-[Calculator](https://github.com/shubham14yadav/My_Calculator)
+Web Development using ReactJS/HTML/CSS:<br>
+[Weather App](https://github.com/shubham14yadav/my_weather_app)<br>
+[Calculator](https://github.com/shubham14yadav/My_Calculator)<br>
 [To-Do List](https://shubham14yadav.github.io/first-app/ )

@@ -1,5 +1,5 @@
 # Hi there 👋
-## ✨I am Shubham ✨
+# ✨I am Shubham ✨
 <!--
 **shubham14yadav/shubham14yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have been on MTV
 
-My Resume: https://shubham14yadav.github.io/Resume/
+## My Resume: https://shubham14yadav.github.io/Resume/
 
 📝 Work you can check out:
 

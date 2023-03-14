@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 📝 Work you can check out:
 
-Machine Learning Projects:
-[Time Series](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)
-[Carmax Competition](https://github.com/shubham14yadav/Carmax_competition)
+Machine Learning Projects:<br>
+[Time Series](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
+[Carmax Competition](https://github.com/shubham14yadav/Carmax_competition)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)
 
 Web Development using ReactJS/HTML/CSS:<br>

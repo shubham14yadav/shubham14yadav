@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have been on MTV
 
-## My Resume: https://shubham14yadav.github.io/Resume/
+## You can check out my [Resume] (https://shubham14yadav.github.io/Resume/)
 
 📝 Work you can check out:
 

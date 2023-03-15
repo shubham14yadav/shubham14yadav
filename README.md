@@ -1,17 +1,5 @@
 # Hi there 👋
 # ✨I'm Shubham ✨
-<!--
-**shubham14yadav/shubham14yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - 🔭 I’m currently working on my skill set to make it :muscle:
 - 🌱 I’m currently learning Natural Language Processing, ML on AWS, and Causal A/B testing
@@ -27,8 +15,12 @@ Here are some ideas to get you started:
 
 Machine Learning Projects:<br>
 [Time Series](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
-[Carmax Competition](https://github.com/shubham14yadav/Carmax_competition)<br>
-[Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)
+[Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
+[Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
+
+Competitions:<br>
+[Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>
+[Carmax Data Analysis](https://github.com/shubham14yadav/Carmax_competition)<br>
 
 Web Development using ReactJS/HTML/CSS:<br>
 [Weather App](https://github.com/shubham14yadav/my_weather_app)<br>

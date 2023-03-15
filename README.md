@@ -16,6 +16,7 @@
 Machine Learning Projects:<br>
 [Time Series](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
+[Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
 
 Competitions:<br>

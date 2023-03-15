@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my skill set to make it :muscle:
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Natural Language Processing, ML on AWS, and Causal A/B testing
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-utdallas/)

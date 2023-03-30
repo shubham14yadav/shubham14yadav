@@ -18,6 +18,7 @@ Machine Learning Projects:<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
+[Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis))<br>
 
 Competitions:<br>
 [Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>

@@ -25,6 +25,8 @@ Competitions:<br>
 [Carmax Data Analysis(Python)](https://github.com/shubham14yadav/Carmax_competition)<br>
 
 Web Development using ReactJS/HTML/CSS:<br>
-[Weather App](https://github.com/shubham14yadav/my_weather_app)<br>
-[Calculator](https://github.com/shubham14yadav/My_Calculator)<br>
-[To-Do List](https://shubham14yadav.github.io/first-app/ )
+[Weather App](https://github.com/shubham14yadav/my_weather_app) Try it out [here](https://shubham14yadav.github.io/my_weather_app/)<br>
+[Calculator](https://github.com/shubham14yadav/My_Calculator)  Try it out [here](https://shubham14yadav.github.io/My_Calculator/)<br>
+[To-Do List](https://shubham14yadav.github.io/first-app/ ) Try it out [here](https://shubham14yadav.github.io/first-app/)
+
+

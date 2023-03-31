@@ -22,7 +22,7 @@ Machine Learning Projects:<br>
 
 Competitions:<br>
 [Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>
-[Carmax Data Analysis(Python)](https://github.com/shubham14yadav/Carmax_competition)<br>
+[Carmax Data Analysis(Python)](https://github.com/shubham14yadav/Carmax_competition) [Notebook](https://github.com/shubham14yadav/Carmax_competition/blob/main/carmax_competition.ipynb)<br>
 
 Web Development using ReactJS/HTML/CSS:<br>
 [Weather App](https://github.com/shubham14yadav/my_weather_app) Try it out [here](https://shubham14yadav.github.io/my_weather_app/)<br>

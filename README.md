@@ -14,8 +14,8 @@
 📝 Work you can check out:
 
 Machine Learning Projects:<br>
-[Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
-[Time Series](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
+[NBA Event Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
+[Time Series to predict Sales Revenue](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>

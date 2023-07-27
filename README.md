@@ -24,7 +24,7 @@ Machine Learning Projects:<br>
 [Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis)<br>
 
 Statistical Analysis/Hypothesis Testing Projects:<br>
-[Hypothesis Testing]((https://github.com/shubham14yadav/Hypothesis-Testing))<br>
+[Hypothesis Testing](https://github.com/shubham14yadav/Hypothesis-Testing)<br>
 
 Competitions:<br>
 [Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>

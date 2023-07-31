@@ -20,7 +20,7 @@ Machine Learning Projects:<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
 
-Machine Learning Projects:<br>
+NLP Projects:<br>
 [Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis)<br>
 
 Statistical Analysis/Hypothesis Testing Projects:<br>

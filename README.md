@@ -16,12 +16,16 @@
 Machine Learning Projects:<br>
 [NBA Event Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
 [Time Series to predict Sales Revenue](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
+[Healthcare Premium/Charges Prediction](https://github.com/shubham14yadav/Insurance_Prediction)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
 
 NLP Projects:<br>
 [Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis)<br>
+
+Data Analysis:<br>
+[Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
 
 Statistical Analysis/Hypothesis Testing Projects:<br>
 [Hypothesis Testing](https://github.com/shubham14yadav/Hypothesis-Testing)<br>

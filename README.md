@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my skill set to make it :muscle:
 - 🌱 I’m currently learning Natural Language Processing, ML on AWS, and Causal A/B testing
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about Machine Learning
+- 💬 Ask me about Machine Learning and Data Engineering
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubham-utdallas/)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have been on MTV

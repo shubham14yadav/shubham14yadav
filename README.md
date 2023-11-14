@@ -13,6 +13,11 @@
 
 📝 Work you can check out:
 
+A/B Testing Projects:<be>
+[A-B-Testing-Webpage-Engagement](https://github.com/shubham14yadav/shubham14yadav-A-B-Testing-Webpage-Engagement)<br>
+[A-B-Testing-Vungle Case Study](https://github.com/shubham14yadav/A-B-Testing-Case-study)<br>
+
+
 Machine Learning Projects:<br>
 [NBA Event Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
 [Time Series to predict Sales Revenue](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>

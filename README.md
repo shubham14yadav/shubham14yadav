@@ -22,6 +22,7 @@ AWS Data Analytics Project:<br>
 
 Machine Learning Projects:<br>
 [NBA Event Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
+[ML FIFA Player Value Prediction](https://github.com/shubham14yadav/ML_Project_Prediction)<br>
 [Time Series to predict Sales Revenue](https://github.com/shubham14yadav/Predicting_Sales_Time_Series)<br>
 [Healthcare Premium/Charges Prediction](https://github.com/shubham14yadav/Insurance_Prediction)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>

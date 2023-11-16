@@ -20,6 +20,9 @@ A/B Testing Projects:<br>
 AWS Data Analytics Project:<br>
 [AWS-Data-Analytics-Project](https://github.com/shubham14yadav/AWS-Data-Analytics-Project)<br>
 
+Big Data Project on Hadoop:<br>
+[Big-Data-Project-Covid-effect-on-e-commerce-sales](https://github.com/shubham14yadav/Big-Data-Project-Covid-effect-on-e-commerce-sales)<br>
+
 Machine Learning Projects:<br>
 [NBA Event Attendance Prediction](https://github.com/shubham14yadav/Attendance-Prediction)<br>
 [ML FIFA Player Value Prediction](https://github.com/shubham14yadav/ML_Project_Prediction)<br>

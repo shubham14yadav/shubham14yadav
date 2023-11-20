@@ -19,6 +19,9 @@ A/B Testing Projects:<br>
 [A-B-Testing-Vungle Case Study](https://github.com/shubham14yadav/A-B-Testing-Case-study)<br>
 [A-B-Testing-Webpage-Engagement](https://github.com/shubham14yadav/shubham14yadav-A-B-Testing-Webpage-Engagement)<br>
 
+Statistical Analysis/Hypothesis Testing Projects:<br>
+[Hypothesis Testing](https://github.com/shubham14yadav/Hypothesis-Testing)<br>
+
 AWS Data Analytics Project:<br>
 [AWS-Data-Analytics-Project](https://github.com/shubham14yadav/AWS-Data-Analytics-Project)<br>
 
@@ -37,11 +40,12 @@ Machine Learning Projects:<br>
 NLP Projects:<br>
 [Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis)<br>
 
+SQL Projects:<br>
+[Analysis on Marketing dataset using SQL](https://github.com/shubham14yadav/SQL-Marketing-Project)<br>
+[POS-Database-System-using-MySQL](https://github.com/shubham14yadav/POS-Database-System-using-MySQL)<br>
+
 Data Analysis:<br>
 [Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
-
-Statistical Analysis/Hypothesis Testing Projects:<br>
-[Hypothesis Testing](https://github.com/shubham14yadav/Hypothesis-Testing)<br>
 
 Competitions:<br>
 [Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>

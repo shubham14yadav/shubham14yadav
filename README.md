@@ -18,6 +18,7 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 A/B Testing Projects:<br>
 [A-B-Testing-Vungle Case Study](https://github.com/shubham14yadav/A-B-Testing-Case-study)<br>
 [A-B-Testing-Webpage-Engagement](https://github.com/shubham14yadav/shubham14yadav-A-B-Testing-Webpage-Engagement)<br>
+[Prototype-Dashboard-for-A-B-testing](https://github.com/shubham14yadav/Prototype-Dashboard-for-A-B-testing)<br>
 
 Statistical Analysis/Hypothesis Testing Projects:<br>
 [Hypothesis Testing](https://github.com/shubham14yadav/Hypothesis-Testing)<br>

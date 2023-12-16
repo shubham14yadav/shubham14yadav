@@ -15,6 +15,9 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 
 📝 Work you can check out:
 
+Chatbot using Langchain:<br>
+[chatbot_ecommerce](https://github.com/shubham14yadav/chatbot_ecommerce)<br>
+
 Data-Engineering:<br>
 [Azure-Databricks-Formula-1-Racing-Data-Engineering](https://github.com/shubham14yadav/Azure-Databricks-Formula-1-Racing-Data-Engineering)<br>
 
@@ -40,6 +43,9 @@ Machine Learning Projects:<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
+
+Microsoft Ambassador Program:<br>
+[Microsoft-Ambassador](https://github.com/shubham14yadav/Microsoft-Ambassador)<br>
 
 NLP Projects:<br>
 [Sentiment Analysis](https://github.com/shubham14yadav/Sentiment-Analysis)<br>

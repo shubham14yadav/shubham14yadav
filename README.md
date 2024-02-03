@@ -20,6 +20,8 @@ Chatbot using Langchain:<br>
 
 Data-Engineering:<br>
 [Azure-Databricks-Formula-1-Racing-Data-Engineering](https://github.com/shubham14yadav/Azure-Databricks-Formula-1-Racing-Data-Engineering)<br>
+[Azure-ADF-Project-Data-Pipeline](https://github.com/shubham14yadav/Azure_ADF_Project)<br>
+
 
 A/B Testing Projects:<br>
 [A-B-Testing-Vungle Case Study](https://github.com/shubham14yadav/A-B-Testing-Case-study)<br>
@@ -42,7 +44,10 @@ Machine Learning Projects:<br>
 [Healthcare Premium/Charges Prediction](https://github.com/shubham14yadav/Insurance_Prediction)<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
-[Linear Regression](https://github.com/shubham14yadav/Linear_Regression)<br>
+[Predicting Loan Defaulters](https://github.com/shubham14yadav/Predictive-Loan-Default-Analysis-Project)<br>
+
+Data Analysis:<br>
+[Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
 
 Microsoft Ambassador Program:<br>
 [Microsoft-Ambassador](https://github.com/shubham14yadav/Microsoft-Ambassador)<br>
@@ -53,9 +58,6 @@ NLP Projects:<br>
 SQL Projects:<br>
 [Analysis on Marketing dataset using SQL](https://github.com/shubham14yadav/SQL-Marketing-Project)<br>
 [POS-Database-System-using-MySQL](https://github.com/shubham14yadav/POS-Database-System-using-MySQL)<br>
-
-Data Analysis:<br>
-[Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
 
 Competitions:<br>
 [Alteryx Datathon](https://github.com/shubham14yadav/Alteryx-Competition)<br>

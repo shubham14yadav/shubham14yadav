@@ -13,7 +13,7 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 
 ## You can check out my [Resume](https://shubham14yadav.github.io/Resume/)
 
-## You can check out my [Tableau profile](https://public.tableau.com/app/profile/shubham.utd/vizzes))
+## You can check out my [Tableau profile](https://public.tableau.com/app/profile/shubham.utd/vizzes)
 
 
 📝 Work you can check out:

@@ -23,7 +23,7 @@ Chatbot using Langchain:<br>
 
 Data Analysis:<br>
 [Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
-[Snapchat Marketing Analysis]([https://github.com/shubham14yadav/Insurance_analysis](https://github.com/shubham14yadav/Snapchat-Marketing-Data-Analysis/blob/main/Snapchat_statistical_analysis.ipynb))<br>
+[Snapchat Marketing Analysis](https://github.com/shubham14yadav/Snapchat-Marketing-Data-Analysis/blob/main/Snapchat_statistical_analysis.ipynb)<br>
 [Automotive Safety Data Analysis(NHTSA Dataset)](https://github.com/shubham14yadav/Automotive-Safety-Data-Analysis)<br>
 
 Data-Engineering:<br>

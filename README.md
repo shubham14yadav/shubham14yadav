@@ -21,6 +21,11 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 Chatbot using Langchain:<br>
 [chatbot_ecommerce](https://github.com/shubham14yadav/chatbot_ecommerce)<br>
 
+Data Analysis:<br>
+[Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
+[Snapchat Marketing Analysis]([https://github.com/shubham14yadav/Insurance_analysis](https://github.com/shubham14yadav/Snapchat-Marketing-Data-Analysis/blob/main/Snapchat_statistical_analysis.ipynb))<br>
+[Automotive Safety Data Analysis(NHTSA Dataset)](https://github.com/shubham14yadav/Automotive-Safety-Data-Analysis)<br>
+
 Data-Engineering:<br>
 [Azure-Databricks-Formula-1-Racing-Data-Engineering](https://github.com/shubham14yadav/Azure-Databricks-Formula-1-Racing-Data-Engineering)<br>
 [Azure-ADF-Project-Data-Pipeline](https://github.com/shubham14yadav/Azure_ADF_Project)<br>
@@ -48,9 +53,6 @@ Machine Learning Projects:<br>
 [Predicting churn rate](https://github.com/shubham14yadav/Banking_Predictive)<br>
 [Recommendation Model](https://github.com/shubham14yadav/Recommendation-Models)<br>
 [Predicting Loan Defaulters](https://github.com/shubham14yadav/Predictive-Loan-Default-Analysis-Project)<br>
-
-Data Analysis:<br>
-[Health Insurance Analysis](https://github.com/shubham14yadav/Insurance_analysis)<br>
 
 Microsoft Ambassador Program:<br>
 [Microsoft-Ambassador](https://github.com/shubham14yadav/Microsoft-Ambassador)<br>

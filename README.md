@@ -11,8 +11,7 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I have been on MTV Show-LinkedIn Get a Job Season 2
 
-/*## You can check out my [Resume](https://shubham14yadav.github.io/Resume/)
-*/
+
 ## You can check out my [Tableau profile](https://public.tableau.com/app/profile/shubham.utd/vizzes)
 
 

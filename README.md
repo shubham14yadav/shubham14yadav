@@ -17,6 +17,9 @@ Technical Skills: Python, SQL, AWS, Tableau Data Visualization
 
 📝 Work you can check out:
 
+ML Deployement:<br>
+[ML Deployment on AWS](https://github.com/shubham14yadav/ML_Project)<br>
+
 Chatbot using Langchain:<br>
 [chatbot_ecommerce](https://github.com/shubham14yadav/chatbot_ecommerce)<br>
 
